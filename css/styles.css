@@ -398,8 +398,8 @@ img{
     margin-bottom: 8px;
 }
 .footer-main{
-    display: flex;
-    align-items: baseline;
+    display: grid;
+    align-items: center;
 }
 .footer{
     margin-right: 120px;
