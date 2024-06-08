@@ -810,7 +810,7 @@ input:focus{
     }
 }
 @media (max-width:320px) {
-    .container{
+    body{
         flex-direction: column;
         flex-wrap: wrap;
     }
