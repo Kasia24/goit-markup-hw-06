@@ -405,8 +405,9 @@ img{
     margin-right: 120px;
 }
 .footer-style{
-    gap: 0px;
-    opacity: 0px;
+    display: grid;
+    flex-direction: column;
+    gap: 72px;
 }
 .icon.list{
     list-style-type: none;
