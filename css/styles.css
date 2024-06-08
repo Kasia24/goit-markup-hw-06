@@ -487,7 +487,6 @@ img{
 .footer-icon{
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
     display: grid;
     top: 6832px;
     left: 56px;
