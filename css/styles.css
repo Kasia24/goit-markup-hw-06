@@ -318,7 +318,7 @@ img{
     display: flex;
 }
 .container{
-    width: 1158px;
+    width: 100%;
     margin: 0 auto;
     padding: 0 15px;
 }
