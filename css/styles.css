@@ -488,13 +488,13 @@ img{
     justify-content: space-between;
     display: grid;
     top: 3256px;
-    left: 540px;
+    left: 320px;
 }
 .form-style{
     display: block;
     align-items: center;
     justify-content: space-between;
-    width: 453px;
+    width: 320px;
     margin-left: 80px;
     margin-top: 100px;
     margin-bottom: 132px;
