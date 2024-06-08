@@ -812,12 +812,6 @@ input:focus{
     }
 }  
     
-    
-    
-    .nav, .address-style{
-        display: none;
-    }
-}
 @media (min-width:321px) {
     
 }
