@@ -566,6 +566,8 @@ input::placeholder{
     border: none; 
     border-radius: 4px;
     flex-direction: column;
+    width: 165px;
+    height: 40px;
 }
 .icon-send{
     margin-left: 16px;
