@@ -598,7 +598,7 @@ input::placeholder{
     width: 408px; 
     min-height: 584px;
 }
-.modal-btn{
+.close{
     position: absolute;
     top: 24px;
     right: 24px;
