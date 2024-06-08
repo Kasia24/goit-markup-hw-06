@@ -499,7 +499,6 @@ img{
     margin-top: 100px;
     margin-bottom: 132px;
     top: 100px;
-    left: 828px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
@@ -546,7 +545,6 @@ input::placeholder{
 }
 .icon-close{
     top: 104px;
-    left: 876px;
     gap: 0px;
     border-radius: 4px 0px 0px 0px;
     opacity: 0px;
