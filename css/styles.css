@@ -804,28 +804,6 @@ input:focus{
 .checkbox-input{
     margin-right: 8px;
 }
-@media (max-width:320px) {
-    .page-nav, .address-style{
-        display: none;
-    }
-}
-@media (min-width:320px) {
-    .list-first{
-        flex-direction: column;
-        display: column;
-        flex-wrap: wrap;
-    }
-    }
-@media (width < 768px) {
-    
-} 
-    
-@media (min-width:321px) {
-    
-}
-@media (min-width:768px) {
-    
-}
 .modal-btn:checked{
     display: none;
 }
