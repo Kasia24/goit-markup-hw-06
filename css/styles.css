@@ -804,12 +804,8 @@ input:focus{
     }
 }
 @media (max-width:768px) {
-    body{
-        color: green;
-    }
+    
 }
 @media (max-width:1440px) {
-    body{
-        color: blue;
-    }
+    
 }
