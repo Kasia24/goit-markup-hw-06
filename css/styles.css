@@ -574,7 +574,7 @@ input::placeholder{
     margin-left: 16px;
 }
 .backdrop{
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
