@@ -800,16 +800,16 @@ input:focus{
 }
 @media(max-width:320px){
     body{
-        background-color: red;
+        color: red;
     }
 }
 @media(max-width:768px){
     body{
-        background-color: green;
+        color: green;
     }
 }
 @media(max-width:1440px){
     body{
-        background-color: blue;
+        color: blue;
     }
 }
