@@ -1,0 +1,57 @@
+<button>Modal</button>
+<div class="backdrop">
+    <div class="modal">
+        <button type="button" class="modal-btn">  
+          <svg class="icon-close" width="8" height="8">
+            <use href="./images/symbol-defs.svg#icon-close"></use>
+          </svg>
+        </button>
+        <div class="text-first">
+          <p class="text-second">Leave your contacts and we will call you back</p>
+        </div>
+       <form class="form">
+         <div class="form-div">
+           <label class="form-label" for="user-name">Name</label>
+           <div class="form-second">
+             <input class="input-style" type="text" name="user-name" id="user-name"/>
+             <svg width="18" height="24" class="person-black">
+               <use href="./images/symbol-defs.svg#icon-person-black-18dp-1"></use>
+             </svg>
+           </div>
+          </div>
+          <div class="form-div">
+            <label class="form-label" for="user-phone">Phone</label>
+            <div class="form-second">
+              <input class="input-style" type="text" name="user-phone" id="user-phone"/>
+              <svg class="person-black" width="18" height="24">
+                <use href="./images/symbol-defs.svg#icon-Vector-3"></use>
+              </svg>
+           </div>
+         </div>
+         <div class="form-div">
+            <label class="form-label" for="user-email">Email</label>
+           <div class="form-second">
+             <input class="input-style" type="text" name="user-email" id="user-email"/>
+             <svg class="person-black" width="18" height="24">
+               <use href="./images/symbol-defs.svg#icon-email-black-18dp-1"></use>
+             </svg>
+           </div>
+         </div>
+          <div class="form-div">
+            <label class="form-label" for="user-comment">Comment</label>
+           <div class="form-second">
+              <textarea class="textarea-style" id="user-comment" name="user-comment" placeholder="Text input">
+              </textarea>
+           </div>
+         </div>
+      </form>
+        <div class="form-div-two">
+             <input type="checkbox" name="user-privacy" id="user-privacy" value="true" class="visually-hidden"/>
+            <div>
+             <label for="user-privacy" class="form-label-two">
+             <span class="span-style"><svg class="" width="10" height="8"><use href="./images/symbol-defs.svg#icon-Checkbox"></use></svg></span>I accept the terms and conditions of the<a href="#">Privacy Policy</a></label> 
+             <button class="send-btn" type="button">Send</button>
+           </div>
+         </div>
+    </div>
+</div>
