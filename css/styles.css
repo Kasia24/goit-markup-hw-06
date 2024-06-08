@@ -491,7 +491,7 @@ img{
     left: 320px;
 }
 .form-style{
-    display: block;
+    display: grid;
     align-items: center;
     justify-content: space-between;
     width: 320px;
@@ -502,7 +502,7 @@ img{
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
-    gap: 24px;
+    gap: 72px;
 }
 .sub-style{
     margin-bottom: 16px; 
