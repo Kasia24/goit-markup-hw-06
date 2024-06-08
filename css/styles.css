@@ -810,7 +810,12 @@ input:focus{
         flex-wrap: wrap;
         gap: 96px;
     }
-}  
+} 
+@media (width < 768px) {
+    .address-style{
+        flex-direction: column;
+    }
+} 
     
 @media (min-width:321px) {
     
