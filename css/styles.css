@@ -568,8 +568,7 @@ input::placeholder{
     background-color: #4D5AE5; 
     border: none; 
     border-radius: 4px;
-    gap: 16px;
-    min-width: 165px;
+    flex-direction: column;
 }
 .icon-send{
     margin-left: 16px;
