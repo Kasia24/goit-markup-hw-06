@@ -805,12 +805,10 @@ input:focus{
     margin-right: 8px;
 }
 @media (max-width:320px) {
-    .top-line, .section-one{
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 96px;
+    .page-nav, .address-style{
+        display: none;
     }
-} 
+    }
 @media (width < 768px) {
     .address-style{
         flex-direction: column;
