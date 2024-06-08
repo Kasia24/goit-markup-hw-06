@@ -804,15 +804,24 @@ input:focus{
 .checkbox-input{
     margin-right: 8px;
 }
-@media (min-width:320px) {
+@media (max-width:320px) {
+    .top-line, .section-one{
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 96px;
+    }
+}  
+    
+    
+    
     .nav, .address-style{
         display: none;
     }
 }
-@media (max-width:768px) {
+@media (min-width:321px) {
     
 }
-@media (max-width:1440px) {
+@media (min-width:768px) {
     
 }
 .modal-btn:checked{
