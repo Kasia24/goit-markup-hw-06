@@ -799,8 +799,8 @@ input:focus{
     margin-right: 8px;
 }
 @media (max-width:320px) {
-    body{
-        color: red;
+    .nav, .address-style{
+        display: none;
     }
 }
 @media (max-width:768px) {
