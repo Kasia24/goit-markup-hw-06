@@ -808,6 +808,10 @@ input:focus{
     .page-nav, .address-style{
         display: none;
     }
+    .icon{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
     }
 @media (width < 768px) {
     .address-style{
