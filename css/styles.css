@@ -400,6 +400,7 @@ img{
 .footer-main{
     display: grid;
     align-items: center;
+    gap: 72px;
 }
 .footer{
     margin-right: 120px;
