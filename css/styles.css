@@ -494,10 +494,10 @@ img{
     display: grid;
     align-items: center;
     justify-content: space-between;
-    width: 320px;
-    margin-left: 80px;
+    width: 288px;
+    margin-left: 16px;
     margin-top: 100px;
-    margin-bottom: 132px;
+    margin-bottom: 72px;
     top: 100px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
