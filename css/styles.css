@@ -585,6 +585,12 @@ input::placeholder{
     flex-direction: column;
     align-items: center;
 }
+.modal-backdrop{
+    display: none;
+}
+.modal-backdrop.is-open{
+    display: block;
+}
 .modal{
     position: absolute;
     top: 50%;
