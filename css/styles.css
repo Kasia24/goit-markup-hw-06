@@ -808,15 +808,15 @@ input:focus{
     .page-nav, .address-style{
         display: none;
     }
+}
+@media (max-width:320px) {
     .icon{
         flex-direction: row;
         flex-wrap: wrap;
     }
     }
 @media (width < 768px) {
-    .address-style{
-        flex-direction: column;
-    }
+    
 } 
     
 @media (min-width:321px) {
