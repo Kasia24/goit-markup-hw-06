@@ -492,6 +492,7 @@ img{
     left: 56px;
     text-align: center;
     width: 208px;
+    justify-content: center;
 }
 .form-style{
     display: grid;
