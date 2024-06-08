@@ -498,11 +498,11 @@ img{
     display: grid;
     align-items: center;
     justify-content: space-between;
-    width: 320px;
+    width: 288px;
     margin-left: 16px;
-    margin-top: 100px;
-    margin-bottom: 72px;
-    top: 100px;
+    margin-top: 72px;
+    margin-bottom: 96px;
+    top: 72px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
