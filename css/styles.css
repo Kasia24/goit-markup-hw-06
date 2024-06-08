@@ -403,7 +403,7 @@ img{
     gap: 72px;
 }
 .footer{
-    margin-right: 120px;
+    text-align: center;
 }
 .footer-style{
     display: grid;
