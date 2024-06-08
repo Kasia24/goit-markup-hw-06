@@ -497,7 +497,6 @@ img{
 .form-style{
     display: grid;
     align-items: center;
-    justify-content: space-between;
     width: 288px;
     margin-left: 16px;
     margin-top: 72px;
