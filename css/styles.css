@@ -687,7 +687,7 @@ input:focus{
 }
 .formal-one{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 24px;
 }
 .send-btn{
