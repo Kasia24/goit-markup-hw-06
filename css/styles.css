@@ -158,7 +158,7 @@
     top: 260px;
     left: 472px;
     justify-content: center;
-    margin:auto;
+    margin: auto;
 }
 .address-style{
     font-style: normal;
@@ -312,7 +312,7 @@
     color: #ffffff;
 }
 img{
-    display: block;
+    display: column;
 }
 .block{
     display: flex;
