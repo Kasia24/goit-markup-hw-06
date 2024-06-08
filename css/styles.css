@@ -812,6 +812,7 @@ input:focus{
 @media (max-width:320px) {
     .list-first{
         flex-direction: column;
+        display: column;
         flex-wrap: wrap;
     }
     }
