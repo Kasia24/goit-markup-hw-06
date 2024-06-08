@@ -483,11 +483,10 @@ img{
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-icon{
-    display: block;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 120px;
-    width: 208px;
+    display: grid;
     top: 3256px;
     left: 540px;
 }
