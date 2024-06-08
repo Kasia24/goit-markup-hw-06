@@ -809,7 +809,7 @@ input:focus{
         display: none;
     }
 }
-@media (max-width:320px) {
+@media (min-width:320px) {
     .container{
         flex-direction: column;
         flex-wrap: wrap;
