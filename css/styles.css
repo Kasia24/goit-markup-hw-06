@@ -491,6 +491,7 @@ img{
     display: grid;
     top: 3256px;
     left: 320px;
+    text-align: center;
 }
 .form-style{
     display: grid;
