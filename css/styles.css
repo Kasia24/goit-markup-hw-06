@@ -807,3 +807,11 @@ input:focus{
 .modal-btn:checked{
     display: none;
 }
+.container-main{
+        display: flex;
+        flex-direction: column;
+        gap: 96px;
+        max-width: 1170px;
+        min-width: 320px;
+        margin: 0 auto;
+      }
