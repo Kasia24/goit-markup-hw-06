@@ -811,7 +811,7 @@ input:focus{
 }
 @media (max-width:320px) {
     .icon{
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
     }
     }
