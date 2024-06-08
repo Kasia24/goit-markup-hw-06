@@ -568,6 +568,7 @@ input::placeholder{
     flex-direction: row;
     width: 165px;
     height: 40px;
+    margin-left: 77px;
 }
 .icon-send{
     margin-left: 16px;
