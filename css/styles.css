@@ -218,6 +218,7 @@
 }
 .name-first{
     display: flex;
+    flex-wrap: wrap;
     gap: 24px; 
     list-style-type: none;
 }
