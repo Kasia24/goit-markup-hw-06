@@ -520,7 +520,6 @@ img{
 }
 .media-list{
     display: flex;
-    flex-wrap: wrap;
     gap: 16px;
 }
 .media-style{
