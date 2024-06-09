@@ -449,6 +449,8 @@ img{
      gap: 0px;
      margin: 0px;
      justify-content: center;
+     margin-left: 16px;
+     margin-right: 16px;
     }
 }
 
