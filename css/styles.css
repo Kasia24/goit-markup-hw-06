@@ -229,7 +229,8 @@
 }
 .employer{
     padding: 32px 0px;
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     gap: 8px;
 }
 .person-one{
