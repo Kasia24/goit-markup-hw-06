@@ -408,6 +408,11 @@ img{
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
 }
+@media (max-width: 320px) {
+    .icon{
+        display: none;
+    }
+}
 .footer-main{
     display: flex;
     align-items: baseline;
