@@ -406,6 +406,8 @@ img{
     margin-right: 120px;
 }
 .footer-style{
+    display: flex;
+    flex-wrap: wrap;
     gap: 0px;
     opacity: 0px;
 }
