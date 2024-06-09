@@ -444,7 +444,7 @@ img{
         flex-wrap: wrap;
         flex-direction: column;
        text-align: center;
-     gap: 0px;
+     gap: 16px;
      margin: 0px;
      justify-content: center;
      margin-left: 16px;
