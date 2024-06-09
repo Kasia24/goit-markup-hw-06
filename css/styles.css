@@ -361,6 +361,13 @@ img{
     gap: 24px;
     width: calc(100% - 72px) / 4;
 }
+@media (max-width: 320px) {
+    .skills{
+        display: flex;
+        gap: 72px;
+        flex-direction: column;
+    }
+}
 .first{
     width: calc((100% - 72px) / 4);
     list-style-type: none;
