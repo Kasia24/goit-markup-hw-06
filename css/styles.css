@@ -313,7 +313,7 @@
     color: #ffffff;
 }
 img{
-    display: column;
+    display: block;
 }
 .block{
     display: flex;
