@@ -366,7 +366,6 @@ img{
         display: flex;
         gap: 72px;
         flex-direction: column;
-        height: 112px;
     }
 }
 .first{
