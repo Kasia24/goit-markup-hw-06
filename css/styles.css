@@ -408,6 +408,7 @@ img{
 .footer-style{
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     gap: 0px;
     opacity: 0px;
 }
