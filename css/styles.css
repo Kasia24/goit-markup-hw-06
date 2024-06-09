@@ -574,6 +574,7 @@ img{
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
+        margin-top: 72px;
     }
 }
 .form-style{
