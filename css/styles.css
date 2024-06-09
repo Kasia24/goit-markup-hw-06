@@ -702,6 +702,17 @@ input::placeholder{
     width: 408px; 
     min-height: 584px;
 }
+@media(max-width:320px) {
+    .modal{
+        width: 288px;
+    height: 623px;
+    top: 8px;
+    left: 16px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    }
+}
 .close{
     position: absolute;
     top: 24px;
