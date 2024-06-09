@@ -359,7 +359,7 @@ img{
 .skills{
     display: flex;
     gap: 24px;
-    width: calc(100% - 72px) / 4;
+    #width: calc(100% - 72px) / 4;
 }
 @media (max-width: 320px) {
     .skills{
