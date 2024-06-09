@@ -399,9 +399,8 @@ img{
     margin-bottom: 8px;
 }
 .footer-main{
-    display: grid;
-    align-items: center;
-    gap: 72px;
+    display: flex;
+    align-items: baseline;
 }
 .footer{
     text-align: center;
