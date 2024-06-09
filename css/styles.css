@@ -315,6 +315,11 @@
 img{
     display: block;
 }
+@media (max-width: 320px) {
+    .img{
+        width: 288px;
+    }
+}
 .block{
     display: flex;
 }
