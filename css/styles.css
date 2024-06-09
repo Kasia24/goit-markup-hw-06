@@ -493,15 +493,19 @@ img{
     left: 540px;
 }
 .form-style{
-    display: grid;
+    display: block;
     align-items: center;
-    width: 288px;
-    margin-left: 16px;
-    margin-bottom: 96px;
-    top: 72px;
+    justify-content: space-between;
+    width: 453px;
+    margin-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 132px;
+    top: 100px;
+    left: 828px;
     border-radius: 4px 0px 0px 0px;
     border: 1px 0px 0px 0px;
     opacity: 0px;
+    gap: 24px;
 }
 .sub-style{
     margin-bottom: 16px; 
