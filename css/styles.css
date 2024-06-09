@@ -851,3 +851,8 @@ input:focus{
    margin: 0 auto;
    flex-basis: calc((100% - 10px) / 2);
   }
+  @media (max-width: 320px) {
+    .container-main{
+        max-width: 320;
+    }
+  }
