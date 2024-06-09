@@ -266,6 +266,11 @@
     margin-bottom: 8px;
     list-style-type: none;
 }
+@media(max-width:320px){
+    .apps{
+        font-size: 30px;
+}
+}
 .department{
     font-size: 16px;
     line-height: 1.5;
