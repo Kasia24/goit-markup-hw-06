@@ -217,7 +217,7 @@
     margin-bottom: 72px; 
 }
 .name-first{
-    display: grid;
+    display: flex;
     gap: 24px; 
     list-style-type: none;
 }
