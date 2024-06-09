@@ -920,7 +920,7 @@ input:focus{
    margin: 0 auto;
    flex-basis: calc((100% - 10px) / 2);
   }
-  .hamburger{
+  .icon-menu{
     width: 16.8px;
     height: 14.4px;
     top: 4.8px;
