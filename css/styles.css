@@ -444,13 +444,12 @@ img{
         flex-wrap: wrap;
         flex-direction: column;
        text-align: center;
-     top: 6648px;
-       left: 16px;
      gap: 0px;
      margin: 0px;
      justify-content: center;
      margin-left: 16px;
      margin-right: 16px;
+     margin-top: 96px;
     }
 }
 
