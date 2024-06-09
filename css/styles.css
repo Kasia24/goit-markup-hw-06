@@ -319,6 +319,7 @@ img{
     .list-first{
         width: 288px;
         justify-content: center;
+        left: 16px;
     }
 }
 .block{
