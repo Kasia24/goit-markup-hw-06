@@ -545,6 +545,7 @@ img{
     .footer-icon{
         display: flex;
         flex-wrap: wrap;
+        flex-direction: column;
     }
 }
 .form-style{
