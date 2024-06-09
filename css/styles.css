@@ -443,8 +443,7 @@ img{
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
-        width: 288px;
-      height: 112px;
+       text-align: center;
      top: 6648px;
        left: 16px;
      gap: 0px;
