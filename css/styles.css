@@ -571,15 +571,13 @@ img{
 }
 @media (max-width: 320px) {
     .form-style{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
     width: 320px;
    height: 664px;
    top: 6552px;
    gap: 0px;
    border: 1px 0px 0px 0px;
    opacity: 0px;
+   margin-left: 0%;
     }
 }
 .sub-style{
