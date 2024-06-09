@@ -484,14 +484,13 @@ img{
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-icon{
-    flex-direction: column;
+    display: block;
     align-items: center;
-    display: grid;
-    top: 6832px;
-    left: 56px;
-    text-align: center;
+    justify-content: space-between;
+    gap: 120px;
     width: 208px;
-    justify-content: center;
+    top: 3256px;
+    left: 540px;
 }
 .form-style{
     display: grid;
