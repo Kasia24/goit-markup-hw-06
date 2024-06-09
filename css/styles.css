@@ -317,7 +317,6 @@ img{
 }
 @media (max-width: 320px) {
     .list-first{
-        width: 288px;
         text-align: center;
         max-width: 100%;
         display: flex;
