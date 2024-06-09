@@ -317,7 +317,7 @@ img{
 }
 @media (max-width: 320px) {
     .list-first{
-        justify-content: center;
+        flex-direction: column;
         max-width: 100%;
         display: flex;
         flex-wrap: wrap;
