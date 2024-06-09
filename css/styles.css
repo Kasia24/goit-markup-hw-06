@@ -403,7 +403,7 @@ img{
     align-items: baseline;
 }
 .footer{
-    text-align: center;
+    margin-right: 120px;
 }
 .footer-style{
     display: grid;
