@@ -321,6 +321,7 @@ img{
         max-width: 100%;
         display: flex;
         flex-wrap: wrap;
+        width: 288px;
     }
 }
 .block{
