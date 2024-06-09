@@ -480,6 +480,13 @@ img{
    gap: 72px;
     }
 }
+@media(max-width:320px){
+    .parent{
+        width: 288px;
+    height: 400px;
+   left: 16px;
+    }
+}
 .icon.list{
     list-style-type: none;
     margin: 0;
