@@ -549,6 +549,12 @@ img{
     opacity: 0px;
     gap: 24px;
 }
+@media (max-width: 320px) {
+    .form-style{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 .sub-style{
     margin-bottom: 16px; 
     font-weight: 500; 
