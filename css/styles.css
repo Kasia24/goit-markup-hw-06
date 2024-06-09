@@ -761,6 +761,11 @@ input:focus{
     flex-direction: row;
     gap: 24px;
 }
+@media(max-width: 320px){
+    .formal-one{
+        flex-direction: column;
+    }
+}
 .send-btn{
     display: block;
     min-width: 169px;
