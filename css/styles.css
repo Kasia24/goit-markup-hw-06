@@ -319,8 +319,6 @@ img{
     .list-first{
         width: 288px;
         justify-content: center;
-        margin-left: 16px;
-        margin-right: 16px;
         max-width: 100%;
     }
 }
