@@ -435,6 +435,11 @@ img{
     display: flex;
     align-items: baseline;
 }
+@media(max-width:320px){
+    .footer-main{
+        flex-wrap: wrap;
+    }
+}
 .footer{
     margin-right: 120px;
 }
