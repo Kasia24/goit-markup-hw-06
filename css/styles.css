@@ -569,6 +569,7 @@ img{
     .form-style{
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
     width: 320px;
    height: 664px;
    top: 6552px;
