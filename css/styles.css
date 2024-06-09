@@ -438,6 +438,20 @@ img{
 .footer{
     margin-right: 120px;
 }
+@media (max-width: 320px) {
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        width: 288px;
+      height: 112px;
+     top: 6648px;
+       left: 16px;
+     gap: 0px;
+    opacity: 0px;
+    }
+}
+
 .footer-style{
     display: flex;
     flex-wrap: wrap;
