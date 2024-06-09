@@ -528,6 +528,12 @@ img{
     top: 3256px;
     left: 540px;
 }
+@media (max-width: 320px) {
+    .footer-icon{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 .form-style{
     display: block;
     align-items: center;
@@ -851,8 +857,4 @@ input:focus{
    margin: 0 auto;
    flex-basis: calc((100% - 10px) / 2);
   }
-  @media (max-width: 320px) {
-    .container-main{
-        max-width: 320;
-    }
-  }
+  
