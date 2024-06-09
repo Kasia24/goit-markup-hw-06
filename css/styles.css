@@ -406,9 +406,8 @@ img{
     margin-right: 120px;
 }
 .footer-style{
-    display: grid;
-    flex-direction: column;
-    gap: 72px;
+    gap: 0px;
+    opacity: 0px;
 }
 .icon.list{
     list-style-type: none;
