@@ -471,6 +471,13 @@ img{
     gap: 0px;
     opacity: 0px;
 }
+@media(max-width:320px){
+    .footer-style{
+        width: 320px;
+    height: 664px;
+   top: 6552px;
+    }
+}
 .icon.list{
     list-style-type: none;
     margin: 0;
