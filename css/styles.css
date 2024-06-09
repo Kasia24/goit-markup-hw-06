@@ -795,6 +795,7 @@ input:focus{
     .formal-one{
         flex-direction: column;
         height: 40px;
+        width: 288px;
     }
 }
 .send-btn{
