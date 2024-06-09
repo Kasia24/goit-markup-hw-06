@@ -920,4 +920,13 @@ input:focus{
    margin: 0 auto;
    flex-basis: calc((100% - 10px) / 2);
   }
+  .hamburger{
+    width: 16.8px;
+height: 14.4px;
+top: 4.8px;
+left: 3.6px;
+gap: 0px;
+opacity: 0px;
+
+  }
   
