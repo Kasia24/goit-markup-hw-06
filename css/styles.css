@@ -484,7 +484,7 @@ img{
     .parent{
         width: 288px;
     height: 400px;
-   left: 16px;
+   margin: 0px;
     }
 }
 .icon.list{
