@@ -966,4 +966,10 @@ input:focus{
     height: 200px;
     gap: 40px;
     font-size: 36px;
+    top: 72px;
+  }
+  .mobile-addres{
+    width: 193px;
+    height: 72px;
+    
   }
