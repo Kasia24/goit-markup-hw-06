@@ -983,5 +983,7 @@ input:focus{
   }
   .social-list{
     display: flex;
-    gap: 16px;
+    gap: 40px;
+    text-align: center;
+    justify-content: center;
   }
