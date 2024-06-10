@@ -981,6 +981,7 @@ input:focus{
     display: block;
     text-decoration: none;
     list-style-type: none;
+    color:#434455;
   }
   .social-list{
     display: flex;
