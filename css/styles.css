@@ -962,6 +962,7 @@ input:focus{
     display: none;
   }
   .mobile-nav-list{
+    display:block;
     width: 151px;
     height: 200px;
     gap: 40px;
@@ -971,5 +972,7 @@ input:focus{
   .mobile-addres{
     width: 193px;
     height: 72px;
-    
+    top: 440px;
+    gap: 24px;
+    display: block;
   }
