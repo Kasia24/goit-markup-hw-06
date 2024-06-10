@@ -999,4 +999,8 @@ input:focus{
   .nav.link-one{
     text-decoration: none;
   }
- 
+ @media(max-width:320px) {
+    .sub-style{
+        text-align: center;
+    }
+ }
