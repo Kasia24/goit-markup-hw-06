@@ -486,9 +486,8 @@
       </li>
     </ul>
    <address class="mobile-addres">
-     <ul class="date">
-       <li><a href="mailto:info@devstudio.com" class="nav-link">info@devstudio.com</a></li>
-       <li><a href="tel:+110001111111" class="nav-link">+11 (000) 111-11-11</a></li>
+       <li><a href="mailto:info@devstudio.com" class="nav-link-one">info@devstudio.com</a></li>
+       <li><a href="tel:+110001111111" class="nav-link-one">+11 (000) 111-11-11</a></li>
      </ul>
    </address>
    <ul class="social-list">
@@ -542,7 +541,7 @@
       
           // Event delegation
           document.querySelector(".mobile-nav-list").addEventListener("click", (event) => {
-              if (event.target.classList.contains("nav-link")) {
+              if (event.target.classList.contains("nav-link-one")) {
                   closeMobileNav();
               }
           });
