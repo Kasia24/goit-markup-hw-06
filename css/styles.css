@@ -963,7 +963,7 @@ input:focus{
     display: block;
   }
   @media(max-width:320px) {
-     .mobile-nav{
+     .mobile-nav.is-open{
     display: none;
   }
 }
