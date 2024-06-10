@@ -967,6 +967,11 @@ input:focus{
     display: none;
   }
 }
+@media (min-width:320px) {
+    .is-open{
+        display: none;
+    }
+}
   .mobile-nav-list{
     display:block;
     width: 151px;
