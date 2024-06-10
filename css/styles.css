@@ -944,7 +944,7 @@ input:focus{
     opacity: 0px;
     color: #2F2F37;
   }
-  @media (min-width:320px){
+  @media (max-width:320px){
     .hamburger{
         display: none;
     }
