@@ -955,7 +955,7 @@ input:focus{
     width: 100vw;
     height: 100vh;
   }
-  .mobile-nav .is-open{
+  .mobile-nav.is-open{
     display: block;
   }
   .mobile-nav{
