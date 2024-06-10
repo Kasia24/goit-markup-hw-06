@@ -988,3 +988,6 @@ input:focus{
     text-align: center;
     justify-content: center;
   }
+  .nav.link-one{
+    text-decoration: none;
+  }
