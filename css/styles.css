@@ -962,7 +962,7 @@ input:focus{
   .mobile-nav.is-open{
     display: block;
   }
-  @media (max-width:320px) {
+  @media (min-width:320px) {
      .mobile-nav.is-open{
     display: none;
   }
