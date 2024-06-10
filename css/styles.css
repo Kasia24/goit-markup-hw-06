@@ -608,6 +608,7 @@ img{
    opacity: 0px;
    margin-top: 72px;
    text-align: center;
+   justify-content: center;
     }
 }
 .sub-style{
