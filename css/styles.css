@@ -388,6 +388,11 @@ img{
     width: calc((100% - 72px) / 4);
     list-style-type: none;
 }
+@media(max-width:320px) {
+    .first{
+        width:100vw;
+    }
+}
 .team-second{
     padding-top: 120px; 
     padding-bottom: 120px;
