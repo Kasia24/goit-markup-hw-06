@@ -962,9 +962,11 @@ input:focus{
   .mobile-nav.is-open{
     display: block;
   }
-  .mobile-nav{
+  @media(max-width:320px) {
+     .mobile-nav{
     display: none;
   }
+}
   .mobile-nav-list{
     display:block;
     width: 151px;
