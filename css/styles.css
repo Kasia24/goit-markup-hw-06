@@ -976,3 +976,7 @@ input:focus{
     gap: 24px;
     display: flex;
   }
+  .social-list{
+    display: flex;
+    gap: 16px;
+  }
