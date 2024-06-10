@@ -602,8 +602,6 @@ img{
     .form-style{
     display: flex;
     flex-wrap: wrap;
-        width: 320px;
-   height: 664px;
    top: 6552px;
    gap: 16px;
    border: 1px 0px 0px 0px;
