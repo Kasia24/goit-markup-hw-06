@@ -978,7 +978,7 @@ input:focus{
     height: 72px;
     top: 440px;
     gap: 24px;
-    display: flex;
+    display: block;
     text-decoration: none;
     list-style-type: none;
   }
