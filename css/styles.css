@@ -959,7 +959,7 @@ input:focus{
     top: 0%;
     left: 0%;
   }
-  .mobile-nav.is-open{
+  .mobile-nav .is-open{
     display: block;
   }
   @media (min-width:320px) {
@@ -999,10 +999,4 @@ input:focus{
   .nav.link-one{
     text-decoration: none;
   }
-  @media(max-width:320px) {
-      .modal-one{
-    position: absolute;
-    top: 0%;
-    left: 0%;
-  }
-}
+ 
