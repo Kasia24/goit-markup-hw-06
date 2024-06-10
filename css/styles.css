@@ -961,3 +961,8 @@ input:focus{
   .mobile-nav{
     display: none;
   }
+  .mobile-nav-list{
+    width: 151px;
+    height: 200px;
+    gap: 40px;
+  }
