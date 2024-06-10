@@ -949,3 +949,6 @@ input:focus{
     width: 100vh;
     height: 100;
   }
+  .mobile-nav{
+    display: none;
+  }
