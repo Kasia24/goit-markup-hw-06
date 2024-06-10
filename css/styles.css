@@ -962,8 +962,8 @@ input:focus{
   .mobile-nav.is-open{
     display: block;
   }
-  @media(max-width:320px) {
-     .mobile-nav.is-open{
+  @media (max-width:320px) {
+     .mobile-nav{
     display: none;
   }
 }
