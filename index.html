@@ -23,7 +23,7 @@
                 </svg>
              </button>
              <nav class="mobile-nav is-open2" id="mobile-nav">
-              <button class="close-and" id="close-and">  
+              <button class="close-btn" id="close-btn">  
                 <svg class="icon-close" width="8" height="8">
                   <use href="./images/symbol-defs.svg#icon-close"></use>
                 </svg>
@@ -87,8 +87,8 @@
                   mobileNav.classList.add(OPEN_CLASS);
                 });
 
-                const closeAnd = document.querySelector("#close-and");
-                closeAnd.addEventListener("click", ()=>{ 
+                const closeBtn = document.querySelector("#close-btn");
+                closeBtn.addEventListener("click", ()=>{ 
                 mobileNav.classList.remove(OPEN_CLASS);
                 });
             </script>
