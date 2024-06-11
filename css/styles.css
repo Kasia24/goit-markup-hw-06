@@ -974,8 +974,7 @@ input:focus{
 }
   .mobile-nav-list{
     display:block;
-    width: 151px;
-    height: 200px;
+    text-decoration: none;
     gap: 40px;
     font-size: 36px;
     top: 72px;
