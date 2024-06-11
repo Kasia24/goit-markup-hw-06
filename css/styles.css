@@ -1029,7 +1029,8 @@ input:focus{
     color: #2E2F42;
     text-decoration: none;
     font-family: Roboto;
-    display: block;
+    display: flex;
+    flex-direction: column;
     gap: 40px;
  }
  .link-one{
@@ -1038,6 +1039,7 @@ input:focus{
     color: #2E2F42;
     text-decoration: none;
     font-family: Roboto;
-    display: block;
+    display: flex;
+    flex-direction: column;
     gap: 40px;
  }
