@@ -391,6 +391,12 @@ img{
         margin-right: 16px;
     }
 }
+@media (min-width:320px) and (max-width:767px){
+    .list-first{
+        margin: 0;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
 
 .team-second{
     padding-top: 120px; 
