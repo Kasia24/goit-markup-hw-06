@@ -399,7 +399,8 @@ img{
 }
 @media(max-width:320px) {
     .name-first{
-        width: 265px;;
+        width: 265px;
+        text-align: center;
     }
 }
 .team-second{
