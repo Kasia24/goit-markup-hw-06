@@ -387,8 +387,7 @@ img{
 @media (min-width:320px) and (max-width:767px){
     .portfolio-list{
         width: 288px;
-        margin-left: 16px;
-        margin-right: 16px;
+        margin: 0;
     }
 }
 @media (min-width:320px) and (max-width:767px){
