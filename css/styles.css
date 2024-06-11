@@ -267,9 +267,10 @@
     margin-bottom: 8px;
     list-style-type: none;
 }
-@media and(min-width:320px) and (max-width:767px){
+@media (min-width:320px) and (max-width:767px){
     .apps{
         font-size: 30px;
+}
 }
 .department{
     font-size: 16px;
