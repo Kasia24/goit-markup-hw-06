@@ -321,7 +321,7 @@
 img{
     display: block;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px) {
     .list-first{
         flex-direction: column;
         max-width: 100%;
