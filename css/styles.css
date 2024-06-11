@@ -267,11 +267,6 @@
     margin-bottom: 8px;
     list-style-type: none;
 }
-@media (min-width:320px) and (max-width:767px){
-    .apps{
-        font-size: 30px;
-}
-}
 .department{
     font-size: 16px;
     line-height: 1.5;
@@ -375,11 +370,6 @@ img{
         justify-content: center;
         width: 288px;
     }
-}
-@media (min-width:320px) and (max-width:767px){
-    .apps{
-        text-align: center;
-}
 }
 @media (min-width:320px) and (max-width:767px){
     .first{
