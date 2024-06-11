@@ -1043,3 +1043,7 @@ input:focus{
     flex-direction: column;
     gap: 2rem;
  }
+ .nav.link-one{
+    text-decoration: none;
+    
+ }
