@@ -394,7 +394,6 @@ img{
 @media (min-width:320px) and (max-width:767px){
     .list-first{
         margin: 0;
-        margin-right: 16px;
     }
 }
 
