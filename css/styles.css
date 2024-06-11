@@ -1023,7 +1023,16 @@ input:focus{
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1); 
     width: 24px; 
  }
- .link-activ-one .link-one{
+ .link-activ-one{
+    font-size: 36px;
+    font-weight: 700;
+    color: #2E2F42;
+    text-decoration: none;
+    font-family: Roboto;
+    display: block;
+    gap: 40px;
+ }
+ .link-one{
     font-size: 36px;
     font-weight: 700;
     color: #2E2F42;
