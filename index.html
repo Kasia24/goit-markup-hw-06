@@ -81,25 +81,16 @@
                 const OPEN_CLASS = "is-open";
             
                 const mobileNav = document.querySelector("#mobile-nav");
-                const openMobileNav = () => mobileNav.classList.add(OPEN_CLASS);
-                const closeMobileNav = () => mobileNav.classList.remove(OPEN_CLASS);
-            
-                document.querySelector("#hamburger").addEventListener("click", openMobileNav);
-            
-                document.querySelector("#close-btn").addEventListener("click", closeMobileNav);
-            
-            
-                // document.querySelectorAll(".mobile-nav-list .nav-link").forEach(link => {
-                //     link.addEventListener("click", closeMobileNav);
-                // });
-            
-                // Event delegation
-                document.querySelector(".mobile-nav-list").addEventListener("click", (event) => {
-                    if (event.target.classList.contains("nav-link-one")) {
-                        closeMobileNav();
-                    }
+                
+                const hamburger = document.querySelector("#hamburger");
+                hamburger.addEventListener("click", ()=>{
+                  mobileNav.classList.add(OPEN_CLASS);
                 });
-            
+
+                const closeBtn = document.querySelector("#close-btn");
+                closeBtn.addEventListener("click", ()=>{ 
+                mobileNav.classList.remove(OPEN_CLASS);
+                });
             </script>
                 <ul class="page-nav">
                    <li>
