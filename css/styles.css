@@ -383,9 +383,10 @@ img{
         justify-content: center;
     }
 }
-.first{
-    width: calc((100% - 72px) / 4);
-    list-style-type: none;
+@media (max-width: 320px) {
+    .apps{
+        text-align: center;
+}
 }
 @media(max-width:320px) {
     .first{
