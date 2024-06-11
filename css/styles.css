@@ -955,7 +955,6 @@ input:focus{
         display: none;
     }
   }
-  @media (max-width:320px) {
      .mobile-nav{
     background-color: white;
     position: absolute;
@@ -968,10 +967,11 @@ input:focus{
     left: 0%;
     box-sizing: border-box;
   }
-}
+@media (min-width:320px) {
   .mobile-nav .is-open2{
     display: block;
   }
+}
      .mobile-nav{
     display: none;
   }
