@@ -974,6 +974,12 @@ input:focus{
         width: 288px;
     }
 }
+@media (min-width:320px) {
+    .container{
+        margin: 0;
+        padding: 0;
+    }
+}
   .mobile-nav-list{
     display: flex;
     text-decoration: none;
