@@ -586,6 +586,8 @@ img{
         flex-direction: column;
         margin-top: 72px;
         text-align: center;
+        margin-left: 56px;
+        margin-right: 56px;
     }
 }
 .form-style{
