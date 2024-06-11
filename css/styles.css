@@ -397,6 +397,11 @@ img{
     
     }
 }
+@media(max-width:320px) {
+    .name-first{
+        width: 265px;;
+    }
+}
 .team-second{
     padding-top: 120px; 
     padding-bottom: 120px;
