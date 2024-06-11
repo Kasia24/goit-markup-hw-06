@@ -942,10 +942,6 @@ input:focus{
    flex-basis: calc((100% - 10px) / 2);
   }
   .hamburger{
-    display: none;
-  }
-  @media (max-width:320px){
-    .hamburger{
         width: 16.8px;
         height: 14.4px;
         top: 4.8px;
@@ -953,6 +949,10 @@ input:focus{
         gap: 0px;
         opacity: 0px;
         color: #2F2F37;
+  }
+  @media (max-width:321px){
+    .hamburger{
+        display: none;
     }
   }
   @media (max-width:320px) {
