@@ -321,15 +321,6 @@
 img{
     display: block;
 }
-@media (min-width:320px) and (max-width:767px) {
-    .list-first{
-        flex-direction: column;
-        max-width: 100%;
-        display: flex;
-        flex-wrap: wrap;
-        width: 288px;
-    }
-}
 .block{
     display: flex;
 }
