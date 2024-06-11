@@ -995,6 +995,7 @@ input:focus{
     .container{
         margin: 0;
         padding: 0;
+        text-align: center;
     }
 }
   .mobile-nav-list{
