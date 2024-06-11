@@ -970,8 +970,8 @@ input:focus{
   }
 }
 @media (min-width:320px) {
-    .is-open{
-        display: none;
+    .modal-backdrop{
+        width: 288px;
     }
 }
   .mobile-nav-list{
