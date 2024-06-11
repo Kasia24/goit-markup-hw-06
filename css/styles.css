@@ -958,6 +958,7 @@ input:focus{
     gap: 48px;
     top: 0%;
     left: 0%;
+    box-sizing: border-box;
   }
   .mobile-nav .is-open{
     display: block;
@@ -985,7 +986,8 @@ input:focus{
     height: 72px;
     top: 440px;
     gap: 24px;
-    display: block;
+    display: flex;
+    flex-direction: column;
     text-decoration: none;
     list-style-type: none;
     color:#434455;
