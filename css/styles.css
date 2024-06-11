@@ -978,7 +978,7 @@ input:focus{
     left: 0%;
     box-sizing: border-box;
   }
-  .mobile-nav .is-open{
+  .mobile-nav .is-open2{
     display: block;
   }
   @media (min-width:320px) {
