@@ -380,7 +380,6 @@ img{
         gap: 72px;
         flex-direction: column;
         width: 100vh;
-        text-align: center;
         justify-content: center;
     }
 }
