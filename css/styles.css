@@ -975,12 +975,13 @@ input:focus{
     }
 }
   .mobile-nav-list{
-    display: block;
+    display: flex;
     text-decoration: none;
-    gap: 40px;
+    gap: 3rem;
     font-size: 36px;
     top: 72px;
     list-style-type: none;
+    flex-direction: column;
   }
   .mobile-addres{
     width: 193px;
@@ -1045,5 +1046,5 @@ input:focus{
  }
  .nav.link-one{
     text-decoration: none;
-    
+
  }
