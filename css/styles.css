@@ -267,7 +267,7 @@
     margin-bottom: 8px;
     list-style-type: none;
 }
-@media(max-width:320px){
+@media and(min-width:320px) and (max-width:767px){
     .apps{
         font-size: 30px;
 }
