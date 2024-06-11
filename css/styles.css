@@ -1029,4 +1029,6 @@ input:focus{
     color: #2E2F42;
     text-decoration: none;
     font-family: Roboto;
+    display: block;
+    gap: 40px;
  }
