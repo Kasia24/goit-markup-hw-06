@@ -969,12 +969,12 @@ input:focus{
     display: none;
   }
 }
-@media (min-width:320px) {
+@media (max-width:320px) {
     .modal-backdrop{
         width: 288px;
     }
 }
-@media (min-width:320px) {
+@media (max-width:320px) {
     .container{
         margin: 0;
         padding: 0;
