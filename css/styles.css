@@ -1031,7 +1031,7 @@ input:focus{
     font-family: Roboto;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 2rem;
  }
  .link-one{
     font-size: 36px;
@@ -1041,5 +1041,5 @@ input:focus{
     font-family: Roboto;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 2rem;
  }
