@@ -972,11 +972,10 @@ input:focus{
   .mobile-nav .is-open2{
     display: block;
   }
-  @media (min-width:320px) and (max-width:767px){
      .mobile-nav{
     display: none;
   }
-}
+
 @media (min-width:320px) and (max-width:767px){
     .modal-backdrop{
         width: 288px;
