@@ -375,7 +375,7 @@ img{
     display: flex;
     gap: 24px;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px) {
     .skills{
         display: flex;
         gap: 72px;
@@ -385,25 +385,25 @@ img{
         width: 288px;
     }
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px){
     .apps{
         text-align: center;
 }
 }
-@media(max-width:320px) {
+@media (min-width:320px) and (max-width:767px){
     .first{
         width: 288px;;
         margin: 0;
     
     }
 }
-@media(max-width:320px) {
+@media (min-width:320px) and (max-width:767px){
     .name-first{
         width: 265px;
         margin-left: 28px;
     }
 }
-@media(max-width:320px) {
+@media (min-width:320px) and (max-width:767px){
     .portfolio-list{
         width: 288px;
         margin-left: 16px;
@@ -464,7 +464,7 @@ img{
     display: flex;
     align-items: baseline;
 }
-@media(max-width:320px){
+@media(min-width:320px) and (max-width:767px){
     .footer-main{
         flex-wrap: wrap;
     }
@@ -472,7 +472,7 @@ img{
 .footer{
     margin-right: 120px;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px){
     .footer{
         display: flex;
         flex-wrap: wrap;
@@ -494,7 +494,7 @@ img{
     gap: 0px;
     opacity: 0px;
 }
-@media(max-width:320px){
+@media(min-width:320px) and (max-width:767px){
     .footer-style{
         width: 320px;
     height: 664px;
@@ -503,7 +503,7 @@ img{
    gap: 72px;
     }
 }
-@media(max-width:320px){
+@media(min-width:320px) and (max-width:767px){
     .parent{
         width: 288px;
     height: 400px;
@@ -592,7 +592,7 @@ img{
     top: 3256px;
     left: 540px;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px){
     .footer-icon{
         display: flex;
         flex-wrap: wrap;
@@ -615,7 +615,7 @@ img{
     opacity: 0px;
     gap: 24px;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px){
     .form-style{
     display: flex;
     flex-wrap: wrap;
@@ -725,7 +725,7 @@ input::placeholder{
     width: 408px; 
     min-height: 584px;
 }
-@media(max-width:320px) {
+@media(min-width:320px) and (max-width:767px){
     .modal{
         width: 288px;
     height: 623px;
@@ -823,7 +823,7 @@ input:focus{
     flex-direction: row;
     gap: 24px;
 }
-@media(max-width: 320px){
+@media(min-width:320px) and (max-width:767px){
     .formal-one{
         flex-direction: column;
         height: 40px;
@@ -961,7 +961,7 @@ input:focus{
     opacity: 0px;
     color: #2F2F37;
   }
-  @media (min-width:320px){
+  @media (min-width:320px) and (max-width:767px){
     .hamburger{
         display: none;
     }
@@ -981,17 +981,17 @@ input:focus{
   .mobile-nav .is-open2{
     display: block;
   }
-  @media (min-width:320px) {
+  @media (min-width:320px) and (max-width:767px){
      .mobile-nav{
     display: none;
   }
 }
-@media (max-width:320px) {
+@media (min-width:320px) and (max-width:767px){
     .modal-backdrop{
         width: 288px;
     }
 }
-@media (max-width:320px) {
+@media (min-width:320px) and (max-width:767px){
     .container{
         margin: 0;
         padding: 0;
@@ -1026,7 +1026,7 @@ input:focus{
   .nav.link-one{
     text-decoration: none;
   }
- @media(max-width:320px) {
+ @media (min-width:320px) and (max-width:767px){
     .sub-style{
         text-align: center;
     }
