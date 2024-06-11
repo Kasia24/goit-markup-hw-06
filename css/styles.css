@@ -974,7 +974,7 @@ input:focus{
     }
 }
   .mobile-nav-list{
-    display:block;
+    display: flex;
     text-decoration: none;
     gap: 40px;
     font-size: 36px;
