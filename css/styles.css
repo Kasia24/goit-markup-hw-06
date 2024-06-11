@@ -978,6 +978,7 @@ input:focus{
     gap: 40px;
     font-size: 36px;
     top: 72px;
+    list-style-type: none;
   }
   .mobile-addres{
     width: 193px;
