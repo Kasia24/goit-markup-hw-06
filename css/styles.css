@@ -949,7 +949,7 @@ input:focus{
         display: none;
     }
   }
-  .mobile-nav .is-open{
+  .mobile-nav{
     background-color: white;
     position: absolute;
     width: 100vw;
