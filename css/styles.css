@@ -955,7 +955,7 @@ input:focus{
         display: none;
     }
   }
-  @media (max-width:320px) {
+  @media (min-width:320px) {
      .mobile-nav{
     background-color: white;
     position: absolute;
