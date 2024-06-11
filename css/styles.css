@@ -441,7 +441,7 @@ img{
     margin-bottom: 8px;
     height: 112px;
 }
-@media (max-width: 736px) {
+@media (max-width: 767px) {
     .icon{
         display: none;
     }
