@@ -358,12 +358,12 @@ img{
     justify-content: space-between;
     align-items: center;
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px) {
     .page-nav{
         display: none;
     }
 }
-@media (max-width: 320px) {
+@media (min-width:320px) and (max-width:767px){
     .address-style{
         display: none;
     }
