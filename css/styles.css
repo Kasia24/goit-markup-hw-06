@@ -400,7 +400,7 @@ img{
 @media(max-width:320px) {
     .name-first{
         width: 265px;
-        text-align: center;
+        margin-left: 28px;
     }
 }
 .team-second{
