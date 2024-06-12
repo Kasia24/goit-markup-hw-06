@@ -471,13 +471,6 @@ img{
    top: 6552px;
    padding: 96px 0;
     }
-@media(min-width:320px) and (max-width:767px){
-    .parent{
-        width: 288px;
-    height: 400px;
-   margin: 0px;
-    }
-}
 .icon.list{
     list-style-type: none;
     margin: 0;
