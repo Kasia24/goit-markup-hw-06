@@ -204,6 +204,7 @@
     letter-spacing: 0.02em;
     color: #434455;
     margin:0;
+    text-align: left;
 }
 .team{
     background-color: #F4F4FD;
