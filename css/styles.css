@@ -431,9 +431,6 @@ img{
     display: flex;
     flex-wrap: wrap;
 }
-#.footer{
-    margin-right: 120px;
-}
     .footer{
         display: flex;
         flex-wrap: wrap;
@@ -530,15 +527,6 @@ img{
     overflow: hidden;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-icon{
-    display: block;
-    align-items: center;
-    justify-content: space-between;
-    width: 208px;
-    top: 3256px;
-    left: 540px;
-}
-@media (min-width:320px) and (max-width:767px){
     .footer-icon{
         display: flex;
         flex-wrap: wrap;
@@ -548,7 +536,6 @@ img{
         margin-left: 56px;
         margin-right: 56px;
     }
-}
 .form-style{
     display: block;
     align-items: center;
