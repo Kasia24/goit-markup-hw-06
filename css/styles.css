@@ -410,7 +410,7 @@ img{
     opacity: 0px;
     background-color: #FFFFFF;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    width: 288;
+    width: 288px;
 }
 .name-list{
     padding: 32px 16px;
