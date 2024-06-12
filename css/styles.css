@@ -887,16 +887,12 @@ input:focus{
     left: 0%;
     box-sizing: border-box;
   }
-@media (min-width:320px) {
   .mobile-nav .is-open2{
     display: block;
-  }
-}
-@media (min-width:320px) {     
+  }    
 .mobile-nav{
     display: none;
   }
-}
     .container-one{
         margin: 0;
         padding: 0;
