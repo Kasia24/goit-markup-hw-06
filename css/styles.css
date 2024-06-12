@@ -364,31 +364,18 @@ img{
     gap: 72px;
     list-style-type: none;
     margin: 0 auto;
-
 }
-@media (max-width:767px) {
-    .skills{
-        display: flex;
-        gap: 72px;
-        flex-direction: column;
-        margin-top: 96px;
-        width: 288px;
-    }
-}
-@media (min-width:320px) and (max-width:767px){
     .first{
-        width: 288px;;
+        width: 288px;
         margin: 0;
-    
     }
-}
 @media (min-width:320px) and (max-width:767px){
     .name-first{
         width: 265px;
         margin-left: 28px;
     }
 }
-@media (min-width:320px) and (max-width:767px){
+@@media (min-width:320px) and (max-width:767px){
     .portfolio-list{
         width: 288px;
         margin: 0;
