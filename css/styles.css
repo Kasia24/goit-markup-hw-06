@@ -782,15 +782,8 @@ input:focus{
 }
 .formal-one{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 24px;
-}
-@media(min-width:320px) and (max-width:767px){
-    .formal-one{
-        flex-direction: column;
-        height: 40px;
-        width: 288px;
-    }
 }
 .send-btn{
     display: block;
