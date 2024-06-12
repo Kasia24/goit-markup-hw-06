@@ -610,6 +610,7 @@ img{
     display: flex;
     text-align: center;
     margin-left: 122px;
+    margin-right: 123px;
 }
 .label-style{
     gap: 24px;
