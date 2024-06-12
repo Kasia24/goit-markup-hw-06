@@ -895,15 +895,12 @@ input:focus{
     display: none;
   }
 }
-
-@media (min-width:320px) and (max-width:767px){
-    .container{
+    .container-one{
         margin: 0;
         padding: 0;
         text-align: center;
         width: 288px;
     }
-}
   .mobile-nav-list{
     display: flex;
     text-decoration: none;
