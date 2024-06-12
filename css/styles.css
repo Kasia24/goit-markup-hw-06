@@ -221,6 +221,7 @@
     flex-wrap: wrap;
     gap: 24px; 
     list-style-type: none;
+    margin-left: 28px;
 }
 .name-style{
     width: calc(100% - 72px) / 4;
@@ -376,12 +377,6 @@ img{
         width: 288px;
         margin: 0;
     }
-@media (min-width:320px) and (max-width:767px){
-    .name-first{
-        width: 265px;
-        margin-left: 28px;
-    }
-}
 @@media (min-width:320px) and (max-width:767px){
     .portfolio-list{
         width: 288px;
