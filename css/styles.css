@@ -580,20 +580,6 @@ img{
     opacity: 0px;
     gap: 24px;
 }
-@media (min-width:320px) and (max-width:767px){
-    .form-style{
-    display: flex;
-    flex-wrap: wrap;
-   margin-left: 16px;
-   margin-right: 16px;
-   gap: 16px;
-   border: 1px 0px 0px 0px;
-   opacity: 0px;
-   margin-top: 72px;
-   text-align: center;
-   width: 288px;
-    }
-}
 .sub-style{
     margin-bottom: 16px; 
     font-weight: 500; 
