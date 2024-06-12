@@ -448,7 +448,6 @@ img{
 .footer{
     margin-right: 120px;
 }
-@media (min-width:320px) and (max-width:767px){
     .footer{
         display: flex;
         flex-wrap: wrap;
@@ -459,8 +458,9 @@ img{
      justify-content: center;
      margin-top: 96px;
      width: 288px;
+     margin-left: 16px;
+     margin-right: 16px;
     }
-}
 
 .footer-style{
     display: flex;
