@@ -393,8 +393,7 @@ img{
     padding-bottom: 120px;
 }
 .portfolio-list{
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
     column-gap: 24px; 
     row-gap: 48px;
     list-style-type: none;
