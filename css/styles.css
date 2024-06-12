@@ -429,7 +429,7 @@ img{
 }
 .footer-main{
     display: flex;
-    align-items: baseline;
+    flex-wrap: wrap;
 }
 .footer{
     margin-right: 120px;
