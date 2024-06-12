@@ -869,6 +869,7 @@ input:focus{
         gap: 0px;
         opacity: 0px;
         color: #2F2F37;
+        cursor: pointer;
   }
   @media (min-width:767px){
     .hamburger{
