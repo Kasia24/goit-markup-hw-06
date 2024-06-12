@@ -608,6 +608,7 @@ img{
     color: #ffffff;
     gap: 16px;
     display: flex;
+    text-align: center;
 }
 .label-style{
     gap: 24px;
