@@ -466,18 +466,13 @@ img{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    gap: 0px;
     opacity: 0px;
-}
-@media(min-width:320px) and (max-width:767px){
-    .footer-style{
-        width: 320px;
+    width: 320px;
     height: 664px;
    top: 6552px;
-   padding: 0%;
+   padding: 96px 0;
    gap: 72px;
     }
-}
 @media(min-width:320px) and (max-width:767px){
     .parent{
         width: 288px;
