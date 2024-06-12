@@ -377,13 +377,6 @@ img{
         width: 288px;
         margin: 0;
     }
-@@media (min-width:320px) and (max-width:767px){
-    .portfolio-list{
-        width: 288px;
-        margin: 0;
-        text-align: center;
-    }
-}
 @media (min-width:320px) and (max-width:767px){
     .list-first{
         margin: 0;
