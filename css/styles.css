@@ -377,12 +377,6 @@ img{
         width: 288px;
         margin: 0;
     }
-@media (min-width:320px) and (max-width:767px){
-    .list-first{
-        margin: 0;
-    }
-}
-
 .team-second{
     padding-top: 120px; 
     padding-bottom: 120px;
