@@ -360,8 +360,11 @@ img{
     padding: 120px 0;
 }
 .skills{
-    display: flex;
-    gap: 24px;
+    display: grid;
+    gap: 72px;
+    list-style-type: none;
+    margin: 0 auto;
+
 }
 @media (max-width:767px) {
     .skills{
