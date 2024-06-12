@@ -368,8 +368,7 @@ img{
         display: flex;
         gap: 72px;
         flex-direction: column;
-        width: 100vh;
-        justify-content: center;
+        margin-top: 96px;
         width: 288px;
     }
 }
