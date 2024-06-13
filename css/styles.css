@@ -420,11 +420,10 @@ img{
     margin-bottom: 8px;
     height: 112px;
 }
-@media (max-width: 767px) {
-    .icon{
-        display: none;
-    }
+.icon{
+    display: none;
 }
+
 .footer-main{
     display: flex;
     flex-wrap: wrap;
