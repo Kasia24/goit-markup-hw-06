@@ -866,11 +866,9 @@ input:focus{
         color: #2F2F37;
         cursor: pointer;
   }
-  @media (min-width:767px){
-    .hamburger{
-        display: none;
-    }
-  }
+.hamburger{
+    display: none;
+}
      .mobile-nav{
     background-color: white;
     position: absolute;
