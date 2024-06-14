@@ -866,7 +866,7 @@ input:focus{
         color: #2F2F37;
         cursor: pointer;
   }
-     .mobile-nav{
+     @.mobile-nav{
     background-color: white;
     position: absolute;
     width: 100vw;
@@ -888,6 +888,7 @@ input:focus{
     left: 0%;
     box-sizing: border-box;
     width: 320px;
+    height: 640px;
   }    
     .container-one{
         margin: 0;
