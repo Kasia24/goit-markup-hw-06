@@ -866,7 +866,7 @@ input:focus{
         color: #2F2F37;
         cursor: pointer;
   }
-     @.mobile-nav{
+    .mobile-nav{
     background-color: white;
     position: absolute;
     width: 100vw;
