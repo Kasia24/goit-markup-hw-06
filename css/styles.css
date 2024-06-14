@@ -878,7 +878,7 @@ input:focus{
     box-sizing: border-box;
     height: 620px;
   }
-  .mobile-nav .is-open2{
+  .mobile-nav .is-open{
     background-color: white;
     position: absolute;
     display: flex;
