@@ -879,7 +879,16 @@ input:focus{
     box-sizing: border-box;
   }
   .mobile-nav .is-open{
-    display: block;
+    background-color: white;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    top: 0%;
+    left: 0%;
+    box-sizing: border-box;
   }    
 .mobile-nav{
     display: none;
