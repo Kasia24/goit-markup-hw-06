@@ -887,8 +887,6 @@ input:focus{
     top: 0%;
     left: 0%;
     box-sizing: border-box;
-    width: 320px;
-    height: 640px;
   }    
     .container-one{
         margin: 0;
