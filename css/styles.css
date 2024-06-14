@@ -869,8 +869,7 @@ input:focus{
     .mobile-nav{
     background-color: white;
     position: absolute;
-    width: 100vw;
-    height: 100vh;
+    width: 320px;
     display: flex;
     flex-direction: column;
     gap: 48px;
