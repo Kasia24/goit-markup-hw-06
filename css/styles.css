@@ -903,6 +903,7 @@ input:focus{
     top: 72px;
     list-style-type: none;
     flex-direction: column;
+    text-align: left;
   }
   .mobile-addres{
     width: 193px;
