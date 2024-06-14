@@ -876,6 +876,7 @@ input:focus{
     top: 0%;
     left: 0%;
     box-sizing: border-box;
+    height: 620px;
   }
   .mobile-nav .is-open{
     background-color: white;
@@ -887,6 +888,7 @@ input:focus{
     left: 0%;
     box-sizing: border-box;
     width: 320px;
+    height: 620px;
   }    
     .container-one{
         margin: 0;
