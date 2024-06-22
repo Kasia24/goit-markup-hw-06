@@ -898,6 +898,16 @@ input:focus {
   margin: 0 auto;
   width: 320px;
 }
+@media (min-width: 768px) {
+  .container-main {
+    min-width: 768px;
+  }
+}
+@media (min-width: 1158px) {
+  .container-main {
+    min-width: 1158px;
+  }
+}
 .hamburger {
   width: 16.8px;
   height: 14.4px;
