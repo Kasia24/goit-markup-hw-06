@@ -7,6 +7,9 @@
 *::after {
   box-sizing: border-box;
 }
+body{
+  width: 320px;
+}
 .top-line {
   display: flex;
   align-items: center;
