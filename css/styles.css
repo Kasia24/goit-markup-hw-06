@@ -908,7 +908,6 @@ input:focus {
   margin: 0;
   padding: 0;
   text-align: center;
-  width: 288px;
 }
 .mobile-nav-list {
   display: flex;
