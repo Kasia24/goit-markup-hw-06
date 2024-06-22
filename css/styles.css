@@ -376,6 +376,7 @@ img {
   .container {
     width: 768px;
     text-align: center;
+    justify-content: center;
   }
 }
 @media (min-width: 1158px) {
