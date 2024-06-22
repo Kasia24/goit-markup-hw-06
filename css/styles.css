@@ -942,6 +942,11 @@ input:focus {
   width: 320px;
   height: 620px;
 }
+@media (min-width: 768px) {
+  .mobile-nav .is-open {
+    display: none;
+  }
+}
 .container-one {
   margin: 0;
   padding: 0;
