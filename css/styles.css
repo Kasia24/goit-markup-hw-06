@@ -411,7 +411,7 @@ img {
   width: 288px;
   margin: 0;
 }
-@media (min width 768px) {
+@media (min-width: 768px) {
   .team-second {
     padding-top: 120px;
     padding-bottom: 120px;
