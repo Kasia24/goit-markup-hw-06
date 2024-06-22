@@ -375,6 +375,7 @@ img {
 @media (min-width: 768px) {
   .container {
     width: 768px;
+    text-align: center;
   }
 }
 @media (min-width: 1158px) {
