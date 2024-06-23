@@ -451,6 +451,7 @@ img {
 @media (min-width: 1158px) {
   .section-two {
     width: 1128px;
+    height: 224px;
     margin-right: 156px;
     margin-left: 156px;
   }
