@@ -55,13 +55,6 @@ body {
     display: inline-block;
   }
 }
-@@media (min-width: 1158px) {
-  .logo-style {
-    margin-top: 24px;
-    margin-bottom: 16px;
-    margin-right: 76px;
-  }
-}
 .accent {
   color: #2e2f42;
 }
