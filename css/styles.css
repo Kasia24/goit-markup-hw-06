@@ -318,6 +318,12 @@ body {
   margin-bottom: 72px;
   box-shadow: inset;
 }
+@media (min-width: 768px) {
+  .portfolio {
+    margin-right: 275px;
+    margin-left: 275px;
+  }
+}
 .apps {
   font-weight: 500;
   font-size: 32px;
