@@ -259,6 +259,11 @@ body {
   list-style-type: none;
   margin-left: 28px;
 }
+@media (min-width: 768px) {
+  .name-first {
+    justify-content: center;
+  }
+}
 .name-style {
   width: calc(100% - 72px) / 4;
   border-radius: 0px 0px 4px 4px;
