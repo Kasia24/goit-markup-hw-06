@@ -450,6 +450,7 @@ img {
 }
 .section-two {
   padding: 120px 0;
+  margin-bottom: 96px;
 }
 .skills {
   display: grid;
