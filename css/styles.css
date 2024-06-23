@@ -998,7 +998,6 @@ input:focus {
 @media (min-width: 1158px) {
   .container-main {
     max-width: 1170px;
-    min-width: 320px;
   }
 }
 .container-main-team {
