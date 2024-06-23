@@ -448,14 +448,6 @@ img {
 .section-two {
   padding: 120px 0;
 }
-@media (min-width: 1158px) {
-  .section-two {
-    width: 1128px;
-    height: 224px;
-    margin-right: 156px;
-    margin-left: 156px;
-  }
-}
 .skills {
   display: grid;
   gap: 72px;
@@ -467,6 +459,14 @@ img {
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
+  }
+}
+@media (min-width: 1158px) {
+  .skills {
+    width: 1128px;
+    height: 224px;
+    margin-right: 156px;
+    margin-left: 156px;
   }
 }
 .first {
