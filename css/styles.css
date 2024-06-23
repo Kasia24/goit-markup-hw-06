@@ -1063,7 +1063,9 @@ input:focus {
 }
 @media (min-width: 1158px) {
   .container-one {
-    width: 1440px;
+    width: 1128px;
+    margin-right: 156px;
+    margin-left: 156px;
   }
 }
 .mobile-nav-list {
