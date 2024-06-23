@@ -980,7 +980,6 @@ input:focus {
   flex-direction: column;
   margin: 0 auto;
   width: 320px;
-  background-color: #f4f4fd;
 }
 @media (min-width: 768px) {
   .container-main {
@@ -989,6 +988,23 @@ input:focus {
 }
 @media (min-width: 1158px) {
   .container-main {
+    min-width: 1440px;
+  }
+}
+.container-main-team {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 320px;
+  background-color: #f4f4fd;
+}
+@media (min-width: 768px) {
+  .container-main-team {
+    min-width: 768px;
+  }
+}
+@media (min-width: 1158px) {
+  .container-main-team {
     min-width: 1440px;
   }
 }
