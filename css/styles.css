@@ -1064,6 +1064,8 @@ input:focus {
   margin: 0;
   padding: 0;
   text-align: center;
+  width: 288px;
+  height: 2752px;
 }
 @media (min-width: 1158px) {
   .container-one {
