@@ -556,6 +556,11 @@ img {
   top: 6552px;
   padding: 96px 0;
 }
+@media (min-width: 1158px) {
+  .footer-style {
+    width: 1440px;
+  }
+}
 .icon.list {
   list-style-type: none;
   margin: 0;
