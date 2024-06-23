@@ -443,8 +443,10 @@ img {
     align-items: center;
   }
 }
-.page-nav {
-  display: none;
+@media (max-width: 320px) {
+  .page-nav {
+    display: none;
+  }
 }
 .address-style {
   display: none;
