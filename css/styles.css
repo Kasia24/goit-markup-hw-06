@@ -321,9 +321,7 @@ body {
 }
 @media (min-width: 768px) {
   .portfolio {
-    margin-right: 275px;
-    margin-left: 275px;
-    width: 218px;
+    text-align: center;
   }
 }
 .apps {
