@@ -252,6 +252,11 @@ body {
   color: #2e2f42;
   margin-bottom: 72px;
 }
+@media (min-width: 768px) {
+  .name {
+    text-align: center;
+  }
+}
 .name-first {
   display: flex;
   flex-wrap: wrap;
