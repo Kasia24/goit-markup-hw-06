@@ -980,6 +980,7 @@ input:focus {
   flex-direction: column;
   margin: 0 auto;
   width: 320px;
+  background-color: #f4f4fd;
 }
 @media (min-width: 768px) {
   .container-main {
