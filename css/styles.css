@@ -1073,6 +1073,11 @@ input:focus {
   text-align: center;
   width: 288px;
 }
+@media (min-width: 768px) {
+  container-one {
+    width: 736px;
+  }
+}
 @media (min-width: 1158px) {
   .container-one {
     width: 1128px;
