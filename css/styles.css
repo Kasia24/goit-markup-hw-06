@@ -988,7 +988,7 @@ input:focus {
 }
 @media (min-width: 1158px) {
   .container-main {
-    min-width: 1158px;
+    min-width: 1440px;
   }
 }
 .hamburger {
