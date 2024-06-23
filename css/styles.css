@@ -996,8 +996,14 @@ input:focus {
   }
 }
 @media (min-width: 1158px) {
-  .container-main {
-    min-width: 1440px;
+    .container-main{
+      display: flex;
+      flex-direction: column;
+      max-width: 1170px;
+      min-width: 320px;
+       margin: 0 auto;
+       flex-basis: calc((100% - 10px) / 2);
+      }
   }
 }
 .container-main-team {
