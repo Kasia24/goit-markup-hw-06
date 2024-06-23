@@ -427,19 +427,21 @@ img {
   text-decoration: none;
   gap: 76px;
 }
-.page-nav {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  text-align: left;
-  display: flex;
-  gap: 40px;
-  list-style-type: none;
-  text-decoration: none;
-  justify-content: space-between;
-  align-items: center;
+@media (min-width: 768px) {
+  .page-nav {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
 .page-nav {
   display: none;
