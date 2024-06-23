@@ -262,6 +262,7 @@ body {
     text-align: center;
   }
 }
+
 .name-first {
   display: flex;
   flex-wrap: wrap;
@@ -1006,6 +1007,7 @@ input:focus {
   margin: 0 auto;
   width: 320px;
   background-color: #f4f4fd;
+  height: 2232px;
 }
 @media (min-width: 768px) {
   .container-main-team {
