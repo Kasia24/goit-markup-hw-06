@@ -256,6 +256,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  margin-top: 96px;
 }
 @media (min-width: 768px) {
   .name {
