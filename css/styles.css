@@ -554,6 +554,7 @@ img {
   .footer-main {
     justify-content: center;
     flex-direction: row;
+    width: 768px;
   }
 }
 @media (min-width: 1158px) {
