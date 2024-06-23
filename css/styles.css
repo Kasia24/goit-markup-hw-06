@@ -469,6 +469,7 @@ img {
     width: 1128px;
     margin-right: 156px;
     margin-left: 156px;
+    gap: 24px;
   }
 }
 .first {
