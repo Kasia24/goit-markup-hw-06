@@ -441,6 +441,7 @@ img {
 @media (min-width: 768px) {
   .portfolio-list {
     width: 736px;
+    flex-direction: row;
   }
 }
 
