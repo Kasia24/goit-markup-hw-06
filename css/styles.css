@@ -377,8 +377,8 @@ img {
     width: 768px;
     text-align: center;
     justify-content: center;
-    margin-left: 108px;
-    margin-right: 108px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 }
 @media (min-width: 1158px) {
