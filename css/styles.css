@@ -611,6 +611,11 @@ img {
   opacity: 0px;
   gap: 24px;
 }
+@media (min-width: 768px) {
+  .form-style{
+    display: flex;
+    flex-direction: row;
+  }
 .sub-style {
   margin-bottom: 16px;
   font-weight: 500;
