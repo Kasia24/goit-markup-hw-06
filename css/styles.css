@@ -1024,6 +1024,11 @@ input:focus {
   padding: 0;
   text-align: center;
 }
+@media (min-width: 1158px) {
+  .container-one {
+    width: 1440px;
+  }
+}
 .mobile-nav-list {
   display: flex;
   text-decoration: none;
