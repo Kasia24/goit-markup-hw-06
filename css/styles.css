@@ -198,10 +198,12 @@ body {
   justify-content: center;
   margin: auto;
 }
-.address-style {
-  font-style: normal;
-  display: flex;
-  align-items: center;
+@media (min-width: 768px) {
+  .address-style {
+    font-style: normal;
+    display: flex;
+    align-items: center;
+  }
 }
 .date {
   display: flex;
