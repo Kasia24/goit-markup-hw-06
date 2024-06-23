@@ -410,6 +410,8 @@ img {
 @media (min-width: 1158px) {
   .container {
     width: 1128px;
+    margin-right: 156px;
+    margin-left: 156px;
   }
 }
 .nav {
