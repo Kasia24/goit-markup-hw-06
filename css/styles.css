@@ -201,7 +201,7 @@ body {
 @media (min-width: 768px) {
   .address-style {
     font-style: normal;
-    display: block;
+    display: flex;
     align-items: center;
   }
 }
