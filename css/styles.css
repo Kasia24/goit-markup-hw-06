@@ -478,6 +478,7 @@ img {
 @media (min-width: 1158px) {
   .first {
     width: 264px;
+    gap: 24px;
   }
 }
 @media (min-width: 768px) {
