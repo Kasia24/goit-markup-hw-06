@@ -540,8 +540,10 @@ img {
     height: 112px;
   }
 }
-.icon {
-  display: none;
+@media (max-width: 1157px) {
+  .icon {
+    display: none;
+  }
 }
 
 .footer-main {
