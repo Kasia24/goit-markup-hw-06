@@ -481,6 +481,7 @@ img {
   column-gap: 24px;
   row-gap: 48px;
   list-style-type: none;
+  margin-bottom: 96px;
 }
 @media (min-width: 768px) {
   .portfolio-list {
