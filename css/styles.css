@@ -1074,7 +1074,7 @@ input:focus {
   width: 288px;
 }
 @media (min-width: 768px) {
-  container-one {
+  .container-one {
     width: 736px;
   }
 }
