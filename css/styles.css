@@ -566,13 +566,11 @@ img {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   gap: 16px;
   margin: 0px;
   justify-content: center;
   width: 288px;
-  margin-left: 16px;
-  margin-right: 16px;
 }
 
 .footer-style {
