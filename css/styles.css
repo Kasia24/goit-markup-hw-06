@@ -439,9 +439,10 @@ img {
   list-style-type: none;
 }
 @media (min-width: 768px) {
-  .portfolio-list{
-    
+  .portfolio-list {
+    width: 736px;
   }
+}
 
 .list-first:hover {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
