@@ -205,11 +205,13 @@ body {
     align-items: center;
   }
 }
-.date {
-  display: flex;
-  gap: 40px;
-  list-style-type: none;
-  text-decoration: none;
+@media (min-width: 768px) {
+  .date {
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    text-decoration: none;
+  }
 }
 .footer-style {
   background-color: #2e2f42;
@@ -423,11 +425,13 @@ img {
     width: 1128px;
   }
 }
-.nav {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  gap: 76px;
+@media (min-width: 768px) {
+  .nav {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 76px;
+  }
 }
 @media (min-width: 768px) {
   .page-nav {
