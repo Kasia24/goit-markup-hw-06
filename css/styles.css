@@ -428,6 +428,7 @@ img {
 }
 @media (min-width: 768px) {
   .skills {
+    display: flex;
     flex-wrap: wrap;
   }
 }
