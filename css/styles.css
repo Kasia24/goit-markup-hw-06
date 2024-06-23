@@ -475,6 +475,11 @@ img {
   width: 288px;
   margin: 0;
 }
+@media (min-width: 1158px) {
+  .first {
+    width: 264px;
+  }
+}
 @media (min-width: 768px) {
   .team-second {
     padding-top: 120px;
