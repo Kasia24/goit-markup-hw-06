@@ -529,6 +529,11 @@ img {
     justify-content: center;
   }
 }
+@media (min-width: 1158px) {
+  .footer-main {
+    width: 1440px;
+  }
+}
 .footer {
   display: flex;
   flex-wrap: wrap;
