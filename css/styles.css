@@ -55,7 +55,7 @@ body {
     display: inline-block;
   }
 }
-@media (min-width: 1158px) {
+@@media (min-width: 1158px) {
   .logo-style {
     margin-top: 24px;
     margin-bottom: 16px;
