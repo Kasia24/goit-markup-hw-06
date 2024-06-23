@@ -571,6 +571,8 @@ img {
   margin: 0px;
   justify-content: center;
   width: 288px;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 
 .footer-style {
