@@ -201,9 +201,8 @@ body {
 @media (min-width: 768px) {
   .address-style {
     font-style: normal;
-    display: flex;
+    display: block;
     align-items: center;
-    flex-direction: column;
   }
 }
 .date {
