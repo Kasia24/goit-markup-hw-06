@@ -379,7 +379,6 @@ img {
     justify-content: center;
     margin-left: 16px;
     margin-right: 16px;
-    flex-wrap: wrap;
   }
 }
 @media (min-width: 1158px) {
@@ -421,6 +420,11 @@ img {
   gap: 72px;
   list-style-type: none;
   margin: 0 auto;
+}
+@media (min-width: 768px) {
+  .skills {
+    flex-wrap: wrap;
+  }
 }
 .first {
   width: 288px;
