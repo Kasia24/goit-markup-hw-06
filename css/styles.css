@@ -443,6 +443,13 @@ img {
 .section-two {
   padding: 120px 0;
 }
+@media (min-width: 1158px) {
+  .section-two {
+    width: 1128px;
+    margin-right: 156px;
+    margin-left: 156px;
+  }
+}
 .skills {
   display: grid;
   gap: 72px;
