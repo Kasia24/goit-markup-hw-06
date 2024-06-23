@@ -448,8 +448,10 @@ img {
     display: none;
   }
 }
-.address-style {
-  display: none;
+@media (max-width: 320px) {
+  .address-style {
+    display: none;
+  }
 }
 .section-two {
   padding: 120px 0;
