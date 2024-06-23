@@ -411,7 +411,7 @@ img {
   margin-right: 15px;
   text-align: center;
 }
-@media (min-width: 768px) {
+@@media (min-width: 768px) {
   .container {
     width: 768px;
   }
