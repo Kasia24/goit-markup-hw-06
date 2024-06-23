@@ -1019,6 +1019,7 @@ input:focus {
 @media (min-width: 768px) {
   .container-main-team {
     min-width: 768px;
+    margin-bottom: 96px;
   }
 }
 @media (min-width: 1158px) {
