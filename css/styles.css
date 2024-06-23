@@ -999,7 +999,6 @@ input:focus {
   .container-main {
     max-width: 1170px;
     min-width: 320px;
-    flex-basis: calc((100% - 10px) / 2);
   }
 }
 .container-main-team {
