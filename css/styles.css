@@ -1053,19 +1053,17 @@ input:focus {
   color: #2f2f37;
   cursor: pointer;
 }
-@media (max-width: 320px) {
-  .mobile-nav {
-    background-color: white;
-    position: absolute;
-    width: 320px;
-    display: flex;
-    flex-direction: column;
-    gap: 48px;
-    top: 0%;
-    left: 0%;
-    box-sizing: border-box;
-    height: 620px;
-  }
+.mobile-nav {
+  background-color: white;
+  position: absolute;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  top: 0%;
+  left: 0%;
+  box-sizing: border-box;
+  height: 620px;
 }
 .mobile-nav .is-open {
   background-color: white;
