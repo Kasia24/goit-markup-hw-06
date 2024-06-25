@@ -210,7 +210,7 @@ body {
 @media (min-width: 768px) {
   .date {
     display: block;
-    gap: 40px;
+    gap: 12px;
     list-style-type: none;
     text-decoration: none;
   }
