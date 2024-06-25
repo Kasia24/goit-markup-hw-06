@@ -195,6 +195,7 @@ body {
   .address-style {
     display: flex;
     gap: 40px;
+    margin-right: 156px;
   }
 }
 @media (min-width: 768px) {
