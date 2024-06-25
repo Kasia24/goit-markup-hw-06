@@ -32,16 +32,6 @@ body {
     padding: 24px;
   }
 }
-@@media (min-width: 768px) {
-  .top-line {
-    width: 768px;
-  }
-}
-@@media (min-width: 1158px) {
-  .top-line {
-    width: 1440px;
-  }
-}
 
 .logo-style {
   font-family: "Raleway", sans-serif;
