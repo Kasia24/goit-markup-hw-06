@@ -1017,7 +1017,6 @@ input:focus {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  width: 320px;
 }
 @media (min-width: 768px) {
   .container-main {
