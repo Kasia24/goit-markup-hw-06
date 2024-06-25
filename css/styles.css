@@ -204,6 +204,7 @@ body {
 @media (min-width: 1158px) {
   .address-style {
     display: flex;
+    gap: 16px;
   }
 }
 @media (min-width: 768px) {
