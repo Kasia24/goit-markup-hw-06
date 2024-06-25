@@ -8,12 +8,7 @@
   box-sizing: border-box;
 }
 body {
-  width: 320px;
-}
-@media (min-width: 768px) {
-  body {
-    width: 768px;
-  }
+  margin: 0;
 }
 @media (min-width: 768px) {
   .hamburger {
