@@ -202,6 +202,11 @@ body {
     align-content: flex-end;
   }
 }
+@media (min-width: 1158px) {
+  .address-style {
+    display: flex;
+  }
+}
 @media (min-width: 768px) {
   .date {
     display: block;
