@@ -1018,16 +1018,6 @@ input:focus {
   flex-direction: column;
   margin: 0 auto;
 }
-@media (min-width: 768px) {
-  .container-main {
-    min-width: 768px;
-  }
-}
-@media (min-width: 1158px) {
-  .container-main {
-    max-width: 1170px;
-  }
-}
 .container-main-team {
   display: flex;
   flex-direction: column;
