@@ -37,6 +37,11 @@ body {
     width: 768px;
   }
 }
+@media (min-width: 1158px) {
+  .top-line {
+    width: 1440px;
+  }
+}
 @media (min-width: 768px) {
   .logo-style {
     font-family: "Raleway", sans-serif;
