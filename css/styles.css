@@ -440,12 +440,12 @@ img {
     align-items: center;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .page-nav {
     display: none;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .address-style {
     display: none;
   }
