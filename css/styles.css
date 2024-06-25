@@ -528,6 +528,7 @@ img {
   .navigation {
     display: flex;
     justify-content: space-between;
+    width: 768px;
   }
 }
 @media (min-width: 1158px) {
