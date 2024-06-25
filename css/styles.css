@@ -1046,6 +1046,7 @@ input:focus {
   left: 0%;
   box-sizing: border-box;
   height: 620px;
+  font: inherit;
 }
 .mobile-nav .is-open {
   background-color: white;
