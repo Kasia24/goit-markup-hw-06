@@ -421,6 +421,7 @@ img {
   align-items: center;
   text-decoration: none;
   gap: 76px;
+  justify-content: space-evenly;
 }
 @media (min-width: 768px) {
   .nav {
