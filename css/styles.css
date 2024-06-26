@@ -1039,7 +1039,7 @@ input:focus {
   color: #2f2f37;
   cursor: pointer;
 }
-@media (min-width: 375px) {
+@media (max-width: 375px) {
   .mobile-nav {
     background-color: white;
     position: absolute;
