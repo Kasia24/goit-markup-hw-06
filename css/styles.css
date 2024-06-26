@@ -1015,18 +1015,11 @@ input:focus {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  width: 320px;
   background-color: #f4f4fd;
 }
 @media (min-width: 768px) {
   .container-main-team {
-    min-width: 768px;
     margin-bottom: 96px;
-  }
-}
-@media (min-width: 1158px) {
-  .container-main-team {
-    width: 1440px;
   }
 }
 .hamburger {
