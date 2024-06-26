@@ -206,6 +206,11 @@ body {
     text-decoration: none;
   }
 }
+@media (min-width: 1158px) {
+  .date {
+    display: flex;
+  }
+}
 .footer-style {
   background-color: #2e2f42;
   padding: 100px 0;
