@@ -196,7 +196,6 @@ body {
   .address-style {
     display: flex;
     gap: 40px;
-    margin-right: 156px;
   }
 }
 @media (min-width: 768px) {
@@ -210,6 +209,9 @@ body {
 @media (min-width: 1158px) {
   .date {
     display: flex;
+    gap: 40px;
+    list-style-type: none;
+    text-decoration: none;
   }
 }
 .footer-style {
