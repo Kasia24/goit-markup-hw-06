@@ -1054,17 +1054,19 @@ input:focus {
     font: inherit;
   }
 }
-.mobile-nav .is-open {
-  background-color: white;
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  gap: 48px;
-  top: 0%;
-  left: 0%;
-  box-sizing: border-box;
-  width: 320px;
-  height: 620px;
+@media (max-width: 375px) {
+  .mobile-nav .is-open {
+    background-color: white;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    top: 0%;
+    left: 0%;
+    box-sizing: border-box;
+    width: 320px;
+    height: 620px;
+  }
 }
 @media (min-width: 768px) {
   .mobile-nav .is-open {
