@@ -1039,18 +1039,20 @@ input:focus {
   color: #2f2f37;
   cursor: pointer;
 }
-.mobile-nav {
-  background-color: white;
-  position: absolute;
-  width: 320px;
-  display: flex;
-  flex-direction: column;
-  gap: 48px;
-  top: 0%;
-  left: 0%;
-  box-sizing: border-box;
-  height: 620px;
-  font: inherit;
+@media (min-width: 375px) {
+  .mobile-nav {
+    background-color: white;
+    position: absolute;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    top: 0%;
+    left: 0%;
+    box-sizing: border-box;
+    height: 620px;
+    font: inherit;
+  }
 }
 .mobile-nav .is-open {
   background-color: white;
