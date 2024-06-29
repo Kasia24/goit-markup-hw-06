@@ -440,11 +440,6 @@ img {
     margin-left: 16px;
   }
 }
-@media (min-width: 1158px) {
-  .nav {
-    margin-left: 156px;
-  }
-}
 @media (min-width: 768px) {
   .page-nav {
     font-family: Roboto;
