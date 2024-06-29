@@ -486,11 +486,15 @@ img {
 @media (min-width: 768px) {
   .section-three {
     width: 768px;
+    padding-left: 108px;
+    padding-right: 108px;
   }
 }
 @media (min-width: 1158px) {
   .section-three {
     width: 1440px;
+    padding-left: 156px;
+    padding-right: 156px;
   }
 }
 .skills {
