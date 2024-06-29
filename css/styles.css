@@ -1095,6 +1095,7 @@ input:focus {
   .container-one {
     margin-right: 156px;
     margin-left: 156px;
+    flex-basis: calc((100% - 10px) / 2);
   }
 }
 .mobile-nav-list {
