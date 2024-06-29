@@ -484,6 +484,11 @@ img {
     width: 768px;
   }
 }
+@media (min-width: 1158px) {
+  .section-three {
+    width: 1158px;
+  }
+}
 .skills {
   display: grid;
   gap: 72px;
