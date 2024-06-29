@@ -440,12 +440,6 @@ img {
   gap: 76px;
 }
 @media (min-width: 768px) {
-  .nav {
-    width: 100vw;
-    margin-left: 16px;
-  }
-}
-@media (min-width: 768px) {
   .page-nav {
     font-family: Roboto;
     font-size: 16px;
