@@ -478,6 +478,7 @@ img {
 .section-three {
   width: 320px;
   background-color: rgba(244, 244, 253, 1);
+  padding: 96px;
 }
 @media (min-width: 768px) {
   .section-three {
