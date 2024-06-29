@@ -48,6 +48,7 @@ body {
   text-decoration: none;
   display: inline-block;
   margin-right: 76px;
+  padding: 17.5px;
 }
 @media (min-width: 768px) {
   .logo-style {
