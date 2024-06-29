@@ -479,6 +479,11 @@ img {
   width: 320px;
   background-color: rgba(244, 244, 253, 1);
 }
+@media (min-width: 768px) {
+  .section-three {
+    width: 768px;
+  }
+}
 .skills {
   display: grid;
   gap: 72px;
