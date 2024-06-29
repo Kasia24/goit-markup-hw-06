@@ -48,6 +48,7 @@ body {
 @media (min-width: 768px) {
   .logo-style {
     margin-left: 16px;
+    margin-right: 120px;
   }
 }
 .accent {
